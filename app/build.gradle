@@ -37,4 +37,5 @@ dependencies {
     compile 'org.glassfish:javax.annotation:10.0-b28'
     // lombok 插件
     compileOnly 'org.projectlombok:lombok:1.16.16'
+    implementation 'com.android.support:design:26.1.0'
 }
